@@ -5,4 +5,3 @@ config files for neovim
 Most Useful command you will ever learn: 
 ```
 find -name coc.nvim
-``
